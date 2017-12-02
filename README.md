@@ -1,5 +1,11 @@
 # Tableau-Final-Project
 
+**Group 6: Parisa Mofakham,
+Jingze Zhang,
+Justin Pavis,
+Jiwei Zeng,
+Patrick Steeves**
+
 ### Why Our Story is Important
 
 As graduate students, we are all looking to improve our current employment status. This could involve changing positions within our current companies, getting a job at a new company within our current field, or completely switching industries. While finding a job can be an incredibly stressful experience, many students have the additional challenge of obtaining an H1B visa to work in the United States. Members of our group, as well as many of our fellow masters students, may one day need to obtain a visa to stay in the United States; making this analysis personally useful.
